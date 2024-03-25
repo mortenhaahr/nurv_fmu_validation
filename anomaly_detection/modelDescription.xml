@@ -23,7 +23,7 @@
       <Real start="0.0" />
     </ScalarVariable>
     <!--Index of variable = "4"-->
-    <ScalarVariable name="boolean_c" valueReference="3" variability="discrete" causality="output" initial="calculated">
+    <ScalarVariable name="verdict" valueReference="3" variability="discrete" causality="output" initial="calculated">
       <Boolean />
     </ScalarVariable>
 
